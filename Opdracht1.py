@@ -5,9 +5,6 @@ sick_days = randint(0, 11)
 calling_in_sick = False
 
 
-
-
-
 while (sick_days > 0):
 
     actually_sick = randint(0,1)
