@@ -1,7 +1,4 @@
 
- 
-
-
 def list_manipulation(list, command, location, value=None):
 
     if command == "remove":
