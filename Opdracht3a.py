@@ -1,7 +1,6 @@
-group_of_people = [ ' Alex ' , ' Eliot ' , ' Veronica ' , ' Lucy ' , ' Wouter ' , ' Bart ' ]
+group_of_people = ['Alex', 'Eliot', 'Veronica', 'Lucy', 'Wouter', 'Bart'] 
 
-
-first_chars = [char for char in group_of_people]
+first_chars = [char[0] for char in group_of_people]
 
 print(first_chars)
 
